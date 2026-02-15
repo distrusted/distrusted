@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name: **Pierce** / **не совершай преступления**
+- Name: **distrusted** / **не совершай преступления**
 
 - Residing in: **Somewhere in Pennsylvania**
 
@@ -19,7 +19,7 @@
 
 - Highly experienced with: **Docker** (containerized deployments), **Cloudflare** (security, WAF, bypass techniques), **Vercel** (serverless apps), and **CI/CD** (GitHub Actions, automated pipelines)
 
-- Languages: Bahasa Indonesia, Russian, and English
+- Languages: Deutsch, Russian, and English
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
@@ -28,13 +28,13 @@
 <br/>
 <br/>
   
-- 📗 [***skidcore/ddos-discord***](https://github.com/skidcore/discord-bot-stresser) <br/>
+- 📗 [***distrusted/ddos-discord***](https://github.com/distrusted/discord-bot-stresser) <br/>
   DISCORD BOT FOR DDOS,, - Update Every 20 Minutes
-- 📘 [***skidcore/adlist***](https://github.com/skidcore/adlist) <br/>
+- 📘 [***distrusted/adlist***](https://github.com/distrusted/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
-- 📙 [***skidcore/ophellia***](https://github.com/skidcore) <br/>
+- 📙 [***distrusted/ophellia***](https://github.com/distrusted) <br/>
   A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***skidcore/aizawa***](https://github.com/skidcore) <br/>
+- 📒 [***distrusted/aizawa***](https://github.com/distrusted) <br/>
   Aizawa is a command-line webshell designed to execute commands through HTTP header   
 
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
