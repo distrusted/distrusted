@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name: **distrusted** / **не совершай преступления**
+- Name: **nonrecognition** / **не совершай преступления**
 
 - Residing in: **Somewhere in Pennsylvania**
 
@@ -30,8 +30,8 @@
   
 - 📗 [***distrusted/ddos-discord***](https://github.com/distrusted/discord-bot-stresser) <br/>
   DISCORD BOT FOR DDOS,, - Update Every 20 Minutes
-- 📘 [***distrusted/adlist***](https://github.com/distrusted/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
+- 📘 [***nonrecognition/Ultimate-Coding-Idiots-Bot***](https://github.com/nonrecognition/Ultimate-Coding-Idiots-Bot) <br/>
+  This is a troll bot
 - 📙 [***distrusted/ophellia***](https://github.com/distrusted) <br/>
   A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
 - 📒 [***distrusted/aizawa***](https://github.com/distrusted) <br/>
